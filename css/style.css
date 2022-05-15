@@ -1,0 +1,145 @@
+*{
+    padding: 0px;
+    margin: 0%;
+  
+}
+
+#logo img{ 
+    height: 50px;
+    margin: 10px 34px;
+    border-radius: 46px;
+}
+#logo{
+    border: 11px black;
+}
+
+
+#navbar{
+    background: url("../img/18.jpg");
+    display: flex;
+    align-items: center;
+    position: sticky;
+top: 0px;
+padding: 2px;
+
+}
+#navbar ul{
+    display: flex;
+ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ list-style: none;
+ 
+}
+#navbar ul li{
+    margin: 5px 53px;
+    padding: opx 3px;
+   
+}
+li a{
+    color: white;
+    text-decoration: none;
+}
+li a:hover{
+    color: lightblue;
+}
+.content h1{ 
+    text-align: center;
+    font-style: italic;
+    padding: 28px;
+    color: white;
+
+}
+section{
+
+    
+    background: url(../img/8.jpg);
+    width: 100%;
+    height: 154%;
+    padding: 0px 0px 124px;
+  }
+  section p{
+      color: white;
+  }
+
+.content p{
+   
+  text-align: center;
+font-style: oblique;
+padding: 0px 0px 20px;
+}
+
+ .btn{
+    text-align: center;
+  margin: auto;
+  
+ }
+.btn button{
+    border: 2px solid black;
+ border-radius: 21px;
+   background-color:transparent;
+   padding: 4px;
+   margin:  0px 4px;
+}
+button a{
+    text-decoration: none;
+    color: blue;
+}
+button a:hover{
+    color: red;
+}
+#cnimg img {
+    height: 100px;
+    padding: 0px 159px;
+  
+    margin: 0px 272px;
+}
+.content h3{
+    text-align: center;
+}
+
+
+    .content p {
+        text-align: justify;
+        font-style: oblique;
+        padding: 0px 92px 20px;
+    }
+
+.footer{
+   
+    background: url("../img/18.jpg");
+    height: 60px;
+}
+.footer p{
+    text-align: center;
+    color: white;
+    padding: 17px;
+}
+.container{
+    height: 400px;
+    width: 50%;
+ border: 2px black;
+}
+.container input{
+    text-align: center;
+    display: block;
+    width: 275px;      
+    padding: 7px;
+    border: 2px solid black;
+    margin: 3px auto;
+
+}
+.text{
+    height: 200px;
+    margin: 0px 135px;
+    padding: 0px 56px;
+   
+}
+
+.container h1{
+    
+        padding: 0px 188px;
+}
+.container button{
+    text-align: center;
+    margin: 13px 173px 0px;
+    padding: 0px 65px;
+}
